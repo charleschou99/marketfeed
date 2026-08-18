@@ -1,0 +1,860 @@
+{
+  "hscei": [
+    {
+      "ticker": "00175.HK",
+      "name": "GEELY AUTO"
+    },
+    {
+      "ticker": "00267.HK",
+      "name": "CITIC"
+    },
+    {
+      "ticker": "00386.HK",
+      "name": "SINOPEC CORP"
+    },
+    {
+      "ticker": "00688.HK",
+      "name": "CHINA OVERSEAS"
+    },
+    {
+      "ticker": "00700.HK",
+      "name": "TENCENT"
+    },
+    {
+      "ticker": "00762.HK",
+      "name": "CHINA UNICOM"
+    },
+    {
+      "ticker": "00857.HK",
+      "name": "PETROCHINA"
+    },
+    {
+      "ticker": "00883.HK",
+      "name": "CNOOC"
+    },
+    {
+      "ticker": "00939.HK",
+      "name": "CCB"
+    },
+    {
+      "ticker": "00941.HK",
+      "name": "CHINA MOBILE"
+    },
+    {
+      "ticker": "00981.HK",
+      "name": "SMIC"
+    },
+    {
+      "ticker": "00992.HK",
+      "name": "LENOVO GROUP"
+    },
+    {
+      "ticker": "01024.HK",
+      "name": "KUAISHOU - W"
+    },
+    {
+      "ticker": "01088.HK",
+      "name": "CHINA SHENHUA"
+    },
+    {
+      "ticker": "01093.HK",
+      "name": "CSPC PHARMA"
+    },
+    {
+      "ticker": "01109.HK",
+      "name": "CHINA RES LAND"
+    },
+    {
+      "ticker": "01211.HK",
+      "name": "BYD COMPANY"
+    },
+    {
+      "ticker": "01288.HK",
+      "name": "ABC"
+    },
+    {
+      "ticker": "01378.HK",
+      "name": "CHINAHONGQIAO"
+    },
+    {
+      "ticker": "01398.HK",
+      "name": "ICBC"
+    },
+    {
+      "ticker": "01658.HK",
+      "name": "PSBC"
+    },
+    {
+      "ticker": "01801.HK",
+      "name": "INNOVENT BIO"
+    },
+    {
+      "ticker": "01810.HK",
+      "name": "XIAOMI - W"
+    },
+    {
+      "ticker": "02015.HK",
+      "name": "LI AUTO - W"
+    },
+    {
+      "ticker": "02020.HK",
+      "name": "ANTA SPORTS"
+    },
+    {
+      "ticker": "02057.HK",
+      "name": "ZTO EXPRESS - W"
+    },
+    {
+      "ticker": "02313.HK",
+      "name": "SHENZHOU INTL"
+    },
+    {
+      "ticker": "02318.HK",
+      "name": "PING AN"
+    },
+    {
+      "ticker": "02328.HK",
+      "name": "PICC P&C"
+    },
+    {
+      "ticker": "02423.HK",
+      "name": "BEKE - W"
+    },
+    {
+      "ticker": "02628.HK",
+      "name": "CHINA LIFE"
+    },
+    {
+      "ticker": "02899.HK",
+      "name": "ZIJIN MINING"
+    },
+    {
+      "ticker": "03328.HK",
+      "name": "BANKCOMM"
+    },
+    {
+      "ticker": "03690.HK",
+      "name": "MEITUAN - W"
+    },
+    {
+      "ticker": "03692.HK",
+      "name": "HANSOH PHARMA"
+    },
+    {
+      "ticker": "03968.HK",
+      "name": "CM BANK"
+    },
+    {
+      "ticker": "03988.HK",
+      "name": "BANK OF CHINA"
+    },
+    {
+      "ticker": "06160.HK",
+      "name": "BEONE MEDICINES"
+    },
+    {
+      "ticker": "06618.HK",
+      "name": "JD HEALTH"
+    },
+    {
+      "ticker": "09618.HK",
+      "name": "JD - SW"
+    },
+    {
+      "ticker": "09633.HK",
+      "name": "NONGFU SPRING"
+    },
+    {
+      "ticker": "09660.HK",
+      "name": "HORIZONROBOT - W"
+    },
+    {
+      "ticker": "09868.HK",
+      "name": "XPENG - W"
+    },
+    {
+      "ticker": "09888.HK",
+      "name": "BIDU - SW"
+    },
+    {
+      "ticker": "09926.HK",
+      "name": "AKESO"
+    },
+    {
+      "ticker": "09961.HK",
+      "name": "TRIP.COM - S"
+    },
+    {
+      "ticker": "09987.HK",
+      "name": "YUM CHINA"
+    },
+    {
+      "ticker": "09988.HK",
+      "name": "BABA - W"
+    },
+    {
+      "ticker": "09992.HK",
+      "name": "POP MART"
+    },
+    {
+      "ticker": "09999.HK",
+      "name": "NTES"
+    }
+  ],
+  "hstech": [
+    {
+      "ticker": "00020.HK",
+      "name": "SENSETIME - W"
+    },
+    {
+      "ticker": "00100.HK",
+      "name": "MINIMAX - W"
+    },
+    {
+      "ticker": "00241.HK",
+      "name": "ALI HEALTH"
+    },
+    {
+      "ticker": "00285.HK",
+      "name": "BYD ELECTRONIC"
+    },
+    {
+      "ticker": "00300.HK",
+      "name": "MIDEA GROUP"
+    },
+    {
+      "ticker": "00700.HK",
+      "name": "TENCENT"
+    },
+    {
+      "ticker": "00780.HK",
+      "name": "TONGCHENGTRAVEL"
+    },
+    {
+      "ticker": "00981.HK",
+      "name": "SMIC"
+    },
+    {
+      "ticker": "00992.HK",
+      "name": "LENOVO GROUP"
+    },
+    {
+      "ticker": "01024.HK",
+      "name": "KUAISHOU - W"
+    },
+    {
+      "ticker": "01211.HK",
+      "name": "BYD COMPANY"
+    },
+    {
+      "ticker": "01347.HK",
+      "name": "HUA HONG GRACE"
+    },
+    {
+      "ticker": "01698.HK",
+      "name": "TME - SW"
+    },
+    {
+      "ticker": "01810.HK",
+      "name": "XIAOMI - W"
+    },
+    {
+      "ticker": "02015.HK",
+      "name": "LI AUTO - W"
+    },
+    {
+      "ticker": "02382.HK",
+      "name": "SUNNY OPTICAL"
+    },
+    {
+      "ticker": "02513.HK",
+      "name": "Z.AI"
+    },
+    {
+      "ticker": "03690.HK",
+      "name": "MEITUAN - W"
+    },
+    {
+      "ticker": "06618.HK",
+      "name": "JD HEALTH"
+    },
+    {
+      "ticker": "06690.HK",
+      "name": "HAIER SMARTHOME"
+    },
+    {
+      "ticker": "09618.HK",
+      "name": "JD - SW"
+    },
+    {
+      "ticker": "09626.HK",
+      "name": "BILIBILI - W"
+    },
+    {
+      "ticker": "09660.HK",
+      "name": "HORIZONROBOT - W"
+    },
+    {
+      "ticker": "09863.HK",
+      "name": "LEAPMOTOR"
+    },
+    {
+      "ticker": "09866.HK",
+      "name": "NIO - SW"
+    },
+    {
+      "ticker": "09868.HK",
+      "name": "XPENG - W"
+    },
+    {
+      "ticker": "09888.HK",
+      "name": "BIDU - SW"
+    },
+    {
+      "ticker": "09961.HK",
+      "name": "TRIP.COM - S"
+    },
+    {
+      "ticker": "09988.HK",
+      "name": "BABA - W"
+    },
+    {
+      "ticker": "09999.HK",
+      "name": "NTES"
+    }
+  ],
+  "nasdaq15": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation Common Stock"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc. Common Stock"
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc. Class A Common Stock"
+    },
+    {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc. Class C Capital Stock"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft Corporation Common Stock"
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon.com, Inc. Common Stock"
+    },
+    {
+      "ticker": "SPCX",
+      "name": "Space Exploration Technologies Corp. Class A Common Stock"
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc. Common Stock"
+    },
+    {
+      "ticker": "META",
+      "name": "Meta Platforms, Inc. Class A Common Stock"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla, Inc. Common Stock"
+    },
+    {
+      "ticker": "MU",
+      "name": "Micron Technology, Inc. Common Stock"
+    },
+    {
+      "ticker": "WMT",
+      "name": "Walmart Inc. Common Stock"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc. Common Stock"
+    },
+    {
+      "ticker": "ASML",
+      "name": "ASML Holding N.V. New York Registry Shares"
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel Corporation Common Stock"
+    }
+  ],
+  "spx50": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft Corp"
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon.com Inc"
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc"
+    },
+    {
+      "ticker": "GOOG",
+      "name": "Alphabet Inc"
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc"
+    },
+    {
+      "ticker": "META",
+      "name": "Meta Platforms Inc"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla Inc"
+    },
+    {
+      "ticker": "MU",
+      "name": "Micron Technology Inc"
+    },
+    {
+      "ticker": "BRK.B",
+      "name": "Berkshire Hathaway Inc"
+    },
+    {
+      "ticker": "LLY",
+      "name": "Eli Lilly &amp; Co"
+    },
+    {
+      "ticker": "JPM",
+      "name": "JPMorgan Chase &amp; Co"
+    },
+    {
+      "ticker": "WMT",
+      "name": "Walmart Inc"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices Inc"
+    },
+    {
+      "ticker": "XOM",
+      "name": "Exxon Mobil Corp"
+    },
+    {
+      "ticker": "V",
+      "name": "Visa Inc"
+    },
+    {
+      "ticker": "JNJ",
+      "name": "Johnson &amp; Johnson"
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel Corp"
+    },
+    {
+      "ticker": "MA",
+      "name": "Mastercard Inc"
+    },
+    {
+      "ticker": "BAC",
+      "name": "Bank of America Corp"
+    },
+    {
+      "ticker": "ABBV",
+      "name": "AbbVie Inc"
+    },
+    {
+      "ticker": "CSCO",
+      "name": "Cisco Systems Inc"
+    },
+    {
+      "ticker": "COST",
+      "name": "Costco Wholesale Corp"
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle Corp"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir Technologies Inc"
+    },
+    {
+      "ticker": "LRCX",
+      "name": "Lam Research Corp"
+    },
+    {
+      "ticker": "AMAT",
+      "name": "Applied Materials Inc"
+    },
+    {
+      "ticker": "CVX",
+      "name": "Chevron Corp"
+    },
+    {
+      "ticker": "CAT",
+      "name": "Caterpillar Inc"
+    },
+    {
+      "ticker": "GE",
+      "name": "General Electric Co"
+    },
+    {
+      "ticker": "KO",
+      "name": "Coca-Cola Co/The"
+    },
+    {
+      "ticker": "UNH",
+      "name": "UnitedHealth Group Inc"
+    },
+    {
+      "ticker": "HD",
+      "name": "Home Depot Inc/The"
+    },
+    {
+      "ticker": "MS",
+      "name": "Morgan Stanley"
+    },
+    {
+      "ticker": "MRK",
+      "name": "Merck &amp; Co Inc"
+    },
+    {
+      "ticker": "PG",
+      "name": "Procter &amp; Gamble Co/The"
+    },
+    {
+      "ticker": "NFLX",
+      "name": "Netflix Inc"
+    },
+    {
+      "ticker": "GS",
+      "name": "Goldman Sachs Group Inc/The"
+    },
+    {
+      "ticker": "PANW",
+      "name": "Palo Alto Networks Inc"
+    },
+    {
+      "ticker": "DELL",
+      "name": "Dell Technologies Inc"
+    },
+    {
+      "ticker": "RTX",
+      "name": "RTX Corp"
+    },
+    {
+      "ticker": "PM",
+      "name": "Philip Morris International Inc"
+    },
+    {
+      "ticker": "GEV",
+      "name": "GE Vernova Inc"
+    },
+    {
+      "ticker": "WFC",
+      "name": "Wells Fargo &amp; Co"
+    },
+    {
+      "ticker": "KLAC",
+      "name": "KLA Corp"
+    },
+    {
+      "ticker": "TXN",
+      "name": "Texas Instruments Inc"
+    },
+    {
+      "ticker": "ANET",
+      "name": "Arista Networks Inc"
+    },
+    {
+      "ticker": "SNDK",
+      "name": "Sandisk Corp/DE"
+    },
+    {
+      "ticker": "C",
+      "name": "Citigroup Inc"
+    }
+  ],
+  "extra": [
+    {
+      "ticker": "005930.KS",
+      "name": "Samsung Electronics"
+    },
+    {
+      "ticker": "000660.KS",
+      "name": "SK Hynix"
+    }
+  ],
+  "_sources": {
+    "hscei": "official Hang Seng API (hsi.com.hk/data/eng/rt/index-series/hscei/constituents.do)",
+    "hstech": "official Hang Seng API (hsi.com.hk/data/eng/rt/index-series/hstech/constituents.do)",
+    "nasdaq15": "official nasdaq.com API (top-15 by market cap)",
+    "spx50": "slickcharts.com top-50 by weight (UNOFFICIAL — pending official source)",
+    "extra": "manual",
+    "nikkei50": "official Nikkei Indexes CSV (indexes.nikkei.co.jp/nkave/archives/file/nikkei_stock_average_weight_en.csv)"
+  },
+  "nikkei50": [
+    {
+      "ticker": "6857.T",
+      "name": "ADVANTEST CORP.",
+      "weight": "12.1876%"
+    },
+    {
+      "ticker": "9983.T",
+      "name": "FAST RETAILING CO., LTD.",
+      "weight": "9.7738%"
+    },
+    {
+      "ticker": "8035.T",
+      "name": "TOKYO ELECTRON LTD.",
+      "weight": "8.6719%"
+    },
+    {
+      "ticker": "9984.T",
+      "name": "SOFTBANK GROUP CORP.",
+      "weight": "6.5750%"
+    },
+    {
+      "ticker": "6762.T",
+      "name": "TDK CORP.",
+      "weight": "2.3500%"
+    },
+    {
+      "ticker": "6098.T",
+      "name": "RECRUIT HOLDINGS CO., LTD.",
+      "weight": "1.9609%"
+    },
+    {
+      "ticker": "6954.T",
+      "name": "FANUC CORP.",
+      "weight": "1.8581%"
+    },
+    {
+      "ticker": "9433.T",
+      "name": "KDDI CORP.",
+      "weight": "1.8256%"
+    },
+    {
+      "ticker": "4062.T",
+      "name": "IBIDEN CO., LTD.",
+      "weight": "1.7344%"
+    },
+    {
+      "ticker": "285A.T",
+      "name": "KIOXIA HOLDINGS CORP.",
+      "weight": "1.6953%"
+    },
+    {
+      "ticker": "6971.T",
+      "name": "KYOCERA CORP.",
+      "weight": "1.5379%"
+    },
+    {
+      "ticker": "4063.T",
+      "name": "SHIN-ETSU CHEMICAL CO., LTD.",
+      "weight": "1.5104%"
+    },
+    {
+      "ticker": "5803.T",
+      "name": "FUJIKURA LTD.",
+      "weight": "1.3038%"
+    },
+    {
+      "ticker": "6367.T",
+      "name": "DAIKIN INDUSTRIES, LTD.",
+      "weight": "1.2133%"
+    },
+    {
+      "ticker": "4519.T",
+      "name": "CHUGAI PHARMACEUTICAL CO., LTD.",
+      "weight": "1.0831%"
+    },
+    {
+      "ticker": "9766.T",
+      "name": "KONAMI GROUP CORP.",
+      "weight": "1.0750%"
+    },
+    {
+      "ticker": "8015.T",
+      "name": "TOYOTA TSUSHO CORP.",
+      "weight": "1.0503%"
+    },
+    {
+      "ticker": "6758.T",
+      "name": "SONY GROUP CORP.",
+      "weight": "0.9862%"
+    },
+    {
+      "ticker": "4543.T",
+      "name": "TERUMO CORP.",
+      "weight": "0.9683%"
+    },
+    {
+      "ticker": "6981.T",
+      "name": "MURATA MANUFACTURING CO., LTD.",
+      "weight": "0.9270%"
+    },
+    {
+      "ticker": "6988.T",
+      "name": "NITTO DENKO CORP.",
+      "weight": "0.8659%"
+    },
+    {
+      "ticker": "7203.T",
+      "name": "TOYOTA MOTOR CORP.",
+      "weight": "0.7987%"
+    },
+    {
+      "ticker": "6920.T",
+      "name": "LASERTEC CORP.",
+      "weight": "0.7898%"
+    },
+    {
+      "ticker": "8058.T",
+      "name": "MITSUBISHI CORP.",
+      "weight": "0.7463%"
+    },
+    {
+      "ticker": "7832.T",
+      "name": "BANDAI NAMCO HOLDINGS INC.",
+      "weight": "0.7202%"
+    },
+    {
+      "ticker": "9735.T",
+      "name": "SECOM CO., LTD.",
+      "weight": "0.7169%"
+    },
+    {
+      "ticker": "7741.T",
+      "name": "HOYA CORP.",
+      "weight": "0.6426%"
+    },
+    {
+      "ticker": "8766.T",
+      "name": "TOKIO MARINE HOLDINGS, INC.",
+      "weight": "0.6339%"
+    },
+    {
+      "ticker": "6146.T",
+      "name": "DISCO CORP.",
+      "weight": "0.6092%"
+    },
+    {
+      "ticker": "4901.T",
+      "name": "FUJIFILM HOLDINGS CORP.",
+      "weight": "0.5894%"
+    },
+    {
+      "ticker": "4578.T",
+      "name": "OTSUKA HOLDINGS CO., LTD.",
+      "weight": "0.5781%"
+    },
+    {
+      "ticker": "4503.T",
+      "name": "ASTELLAS PHARMA INC.",
+      "weight": "0.5734%"
+    },
+    {
+      "ticker": "6976.T",
+      "name": "TAIYO YUDEN CO., LTD.",
+      "weight": "0.5326%"
+    },
+    {
+      "ticker": "7735.T",
+      "name": "SCREEN HOLDINGS CO., LTD.",
+      "weight": "0.5250%"
+    },
+    {
+      "ticker": "8001.T",
+      "name": "ITOCHU CORP.",
+      "weight": "0.5245%"
+    },
+    {
+      "ticker": "2802.T",
+      "name": "AJINOMOTO CO., INC.",
+      "weight": "0.5172%"
+    },
+    {
+      "ticker": "8031.T",
+      "name": "MITSUI & CO., LTD.",
+      "weight": "0.5143%"
+    },
+    {
+      "ticker": "7267.T",
+      "name": "HONDA MOTOR CO., LTD.",
+      "weight": "0.5080%"
+    },
+    {
+      "ticker": "5802.T",
+      "name": "SUMITOMO ELECTRIC IND., LTD.",
+      "weight": "0.4550%"
+    },
+    {
+      "ticker": "4507.T",
+      "name": "SHIONOGI & CO., LTD.",
+      "weight": "0.4545%"
+    },
+    {
+      "ticker": "7453.T",
+      "name": "RYOHIN KEIKAKU CO., LTD.",
+      "weight": "0.4351%"
+    },
+    {
+      "ticker": "7269.T",
+      "name": "SUZUKI MOTOR CORP.",
+      "weight": "0.4346%"
+    },
+    {
+      "ticker": "2801.T",
+      "name": "KIKKOMAN CORP.",
+      "weight": "0.4290%"
+    },
+    {
+      "ticker": "6861.T",
+      "name": "KEYENCE CORP.",
+      "weight": "0.4227%"
+    },
+    {
+      "ticker": "5108.T",
+      "name": "BRIDGESTONE CORP.",
+      "weight": "0.4130%"
+    },
+    {
+      "ticker": "6902.T",
+      "name": "DENSO CORP.",
+      "weight": "0.4099%"
+    },
+    {
+      "ticker": "4568.T",
+      "name": "DAIICHI SANKYO CO., LTD.",
+      "weight": "0.4012%"
+    },
+    {
+      "ticker": "7974.T",
+      "name": "NINTENDO CO., LTD.",
+      "weight": "0.3999%"
+    },
+    {
+      "ticker": "4021.T",
+      "name": "NISSAN CHEMICAL CORP.",
+      "weight": "0.3908%"
+    },
+    {
+      "ticker": "7733.T",
+      "name": "OLYMPUS CORP.",
+      "weight": "0.3792%"
+    }
+  ]
+}
