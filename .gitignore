@@ -1,0 +1,6 @@
+data/state.json
+data/collected.json
+data/source_health.json
+data/bbg_exports/
+__pycache__/
+*.pyc
